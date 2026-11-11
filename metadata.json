@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Modern Supabase Todo & Task Manager",
+  "description": "A modern, responsive to-do application built with React, Tailwind CSS, and Supabase featuring authentication, drag-and-drop reordering, priority filters, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
